@@ -47,9 +47,11 @@ A curated list of amazing libraries and frameworks for building command-line int
 - **[boxen](https://github.com/sindresorhus/boxen)** 🆓 - Create boxes in the terminal (MIT)
 - **[chalk](https://github.com/chalk/chalk)** 🆓 - Terminal string styling done right (MIT)
 - **[cli-table3](https://github.com/cli-table/cli-table3)** 🆓 - Pretty unicode tables for the command line (MIT)
+- **[terminal-kit](https://github.com/cronvel/terminal-kit)** 🆓 - Terminal utilities for Node.js (MIT)
+- **[blessed](https://github.com/chjj/blessed)** 🆓 - High-level terminal interface library for Node.js (MIT)
+- **[blessed-contrib](https://github.com/yaronn/blessed-contrib)** 🆓 - Build terminal dashboards using ascii/graphics widgets (MIT)
 - **[ink](https://github.com/vadimdemedes/ink)** 🆓 - React for interactive command-line apps (MIT)
 - **[terminal-image](https://github.com/sindresorhus/terminal-image)** 🆓 - Display images in the terminal (MIT)
-- **[terminal-kit](https://github.com/cronvel/terminal-kit)** 🆓 - Terminal utilities for Node.js (MIT)
 
 ### Progress & Interaction
 - **[cli-progress](https://github.com/npkgz/cli-progress)** 🆓 - Easy to use progress-bar for command-line/terminal applications (MIT)
@@ -59,6 +61,8 @@ A curated list of amazing libraries and frameworks for building command-line int
 - **[ora](https://github.com/sindresorhus/ora)** 🆓 - Elegant terminal spinner (MIT)
 - **[progress](https://github.com/visionmedia/node-progress)** 🆓 - Flexible ascii progress bar for Node.js (MIT)
 - **[prompts](https://github.com/terkelg/prompts)** 🆓 - Lightweight, beautiful and user-friendly interactive prompts (MIT)
+- **[cli-progress](https://github.com/npkgz/cli-progress)** 🆓 - Easy to use progress-bar for command-line/terminal applications (MIT)
+- **[enquirer](https://github.com/enquirer/enquirer)** 🆓 - Stylish, intuitive prompts for Node.js (MIT)
 
 ## Rust 🦀
 
