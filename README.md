@@ -31,26 +31,33 @@ A curated list of amazing libraries and frameworks for building command-line int
 ## Node.js / JavaScript 🟨
 
 ### CLI Frameworks & Argument Parsing
-- **[commander.js](https://github.com/tj/commander.js)** 🆓 - Node.js command-line interfaces made easy (MIT)
-- **[yargs](https://github.com/yargs/yargs)** 🆓 - Yargs helps you build interactive command line tools (MIT)
-- **[oclif](https://github.com/oclif/oclif)** 🆓 - Open CLI Framework for building CLIs in Node.js (MIT)
+- **[caporal.js](https://github.com/mattallty/Caporal.js)** 🆓 - Full-featured framework for building command line applications (MIT)
+- **[clack](https://github.com/bombshell-dev/clack)** 🆓 - Minimal, high-level framework for interactive CLIs (MIT)
 - **[clipanion](https://github.com/arcanis/clipanion)** 🆓 - Type-safe CLI framework (MIT)
 - **[clerc](https://github.com/so1ve/clerc)** 🆓 - Full-featured library for building CLI Apps (MIT)
+- **[commander.js](https://github.com/tj/commander.js)** 🆓 - Node.js command-line interfaces made easy (MIT)
 - **[meow](https://github.com/sindresorhus/meow)** 🆓 - CLI app helper (MIT)
-- **[caporal.js](https://github.com/mattallty/Caporal.js)** 🆓 - Full-featured framework for building command line applications (MIT)
+- **[oclif](https://github.com/oclif/oclif)** 🆓 - Open CLI Framework for building CLIs in Node.js (MIT)
 - **[sade](https://github.com/lukeed/sade)** 🆓 - Ridiculously small but powerful CLI framework (MIT)
+- **[yargs](https://github.com/yargs/yargs)** 🆓 - Yargs helps you build interactive command line tools (MIT)
 
 ### Terminal UI & Formatting
-- **[chalk](https://github.com/chalk/chalk)** 🆓 - Terminal string styling done right (MIT)
+- **[blessed](https://github.com/chjj/blessed)** 🆓 - High-level terminal interface library for Node.js (MIT)
+- **[blessed-contrib](https://github.com/yaronn/blessed-contrib)** 🆓 - Build terminal dashboards using ascii/graphics widgets (MIT)
 - **[boxen](https://github.com/sindresorhus/boxen)** 🆓 - Create boxes in the terminal (MIT)
+- **[chalk](https://github.com/chalk/chalk)** 🆓 - Terminal string styling done right (MIT)
 - **[cli-table3](https://github.com/cli-table/cli-table3)** 🆓 - Pretty unicode tables for the command line (MIT)
 - **[terminal-kit](https://github.com/cronvel/terminal-kit)** 🆓 - Terminal utilities for Node.js (MIT)
 - **[blessed](https://github.com/chjj/blessed)** 🆓 - High-level terminal interface library for Node.js (MIT)
 - **[blessed-contrib](https://github.com/yaronn/blessed-contrib)** 🆓 - Build terminal dashboards using ascii/graphics widgets (MIT)
 - **[ink](https://github.com/vadimdemedes/ink)** 🆓 - React for interactive command-line apps (MIT)
+- **[terminal-image](https://github.com/sindresorhus/terminal-image)** 🆓 - Display images in the terminal (MIT)
 
 ### Progress & Interaction
+- **[cli-progress](https://github.com/npkgz/cli-progress)** 🆓 - Easy to use progress-bar for command-line/terminal applications (MIT)
+- **[enquirer](https://github.com/enquirer/enquirer)** 🆓 - Stylish, intuitive prompts for Node.js (MIT)
 - **[inquirer.js](https://github.com/SBoudrias/Inquirer.js)** 🆓 - Collection of common interactive command line user interfaces (MIT)
+- **[listr2](https://github.com/listr2/listr2)** 🆓 - Elegant task list framework for Node.js (MIT)
 - **[ora](https://github.com/sindresorhus/ora)** 🆓 - Elegant terminal spinner (MIT)
 - **[progress](https://github.com/visionmedia/node-progress)** 🆓 - Flexible ascii progress bar for Node.js (MIT)
 - **[prompts](https://github.com/terkelg/prompts)** 🆓 - Lightweight, beautiful and user-friendly interactive prompts (MIT)
